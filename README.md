@@ -44,7 +44,7 @@ This project consists of a Node.js REST API and a React frontend application. Th
 - **Frontend:** React with Axios for API requests
 
 
-## Example
+
 
 ## Example
 
