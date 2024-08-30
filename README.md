@@ -57,10 +57,8 @@ Here is an example of the API response:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Sanjana-06/ProcessAPI.git
    cd your-repo
-
-
 
 ## Getting Started
 
